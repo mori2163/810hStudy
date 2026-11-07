@@ -2,6 +2,7 @@
 
 810時間勉強するだけのアプリです。たまげたなぁ
 
+<img width="1080" height="2177" alt="Image" src="https://github.com/user-attachments/assets/926fb162-ace1-4936-995a-ead4bc13ec86" />
 
 ## 必要環境
 
