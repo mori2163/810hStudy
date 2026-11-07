@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">810hStudy</string>
+
+    <string name="tab_timer">タイマー</string>
+    <string name="tab_calendar">カレンダー</string>
+
+    <string name="remaining_time">残り時間</string>
+    <string name="consumed_of_target">810時間のうち %1$s 消化</string>
+    <string name="today_study">今日の勉強</string>
+    <string name="start">開始</string>
+    <string name="stop">停止</string>
+    <string name="first_launch">開始日 %1$s</string>
+    <string name="achieved">810時間 達成！</string>
+
+    <string name="stop_dialog_title">計測を停止しますか？</string>
+    <string name="stop_dialog_message">ここまでの勉強時間を記録します。</string>
+    <string name="stop_and_save">停止して記録</string>
+    <string name="keep_running">続ける</string>
+
+    <string name="calendar_title">カレンダー</string>
+    <string name="previous_month">前の月</string>
+    <string name="next_month">次の月</string>
+    <string name="month_summary_title">%1$sの記録</string>
+    <string name="days_recorded">%1$d日 記録</string>
+    <string name="day_total">合計 %1$s</string>
+    <string name="no_record">この日の勉強記録はありません</string>
+    <string name="no_record_short">記録なし</string>
+
+    <string name="notification_channel_name">勉強タイマー</string>
+    <string name="notification_channel_description">勉強時間の計測状態を表示します</string>
+    <string name="notification_title">810hStudy</string>
+    <string name="notification_running">勉強時間を計測中</string>
+    <string name="notification_remaining">残り %1$s</string>
+    <string name="notification_stop">停止</string>
+
+    <string-array name="weekdays_short">
+        <item>日</item>
+        <item>月</item>
+        <item>火</item>
+        <item>水</item>
+        <item>木</item>
+        <item>金</item>
+        <item>土</item>
+    </string-array>
+</resources>
